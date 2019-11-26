@@ -1,0 +1,1 @@
+/home/sandile/instaFind/platforms/android/app/src/main/assets/metadata
