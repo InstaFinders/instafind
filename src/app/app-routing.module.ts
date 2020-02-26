@@ -4,11 +4,11 @@ import { Routes } from "@angular/router";
 
 import { ItemsComponent } from "./item/items.component";
 import { ItemDetailComponent } from "./item/item-detail.component";
+import { CaptureImageComponent } from "./capture-image/capture-image.component";
 
 const routes: Routes = [
-    { path: "", redirectTo: "/items", pathMatch: "full" },
-    { path: "items", component: ItemsComponent },
-    { path: "item/:id", component: ItemDetailComponent }
+    { path: "", redirectTo: "/captureImage", pathMatch: "full" },
+    { path: "captureImage", component: CaptureImageComponent },
 ];
 
 @NgModule({
