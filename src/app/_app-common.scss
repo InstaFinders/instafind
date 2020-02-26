@@ -1,0 +1,13 @@
+@import "~@nativescript/theme/core";
+@import "~@nativescript/theme/blue";
+
+/* 
+* Place any css rules you want to apply on both iOS and Android here 
+* Most of the css code will sit here
+*/
+
+// Define global variables for apps colors
+$colorPrimary: blue;
+$colorSecondary: darkblue;
+
+// Action bar colors

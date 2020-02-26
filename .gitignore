@@ -1,8 +1,7 @@
-node_modules
-platforms
-hooks
-tags
-dist
+# NativeScript
+node_modules/
+platforms/
+hooks/
 **/*.js.map
 **/*.metadata.json
 
@@ -38,7 +37,7 @@ tests/test-output.txt
 ng-sample/app/**/*.js
 
 # Webpack configuration files
-webpack.config.js
+!webpack.config.js
 tsconfig.esm.json
 tsconfig.tns.json
 
