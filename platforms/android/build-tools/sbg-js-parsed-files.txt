@@ -1,4 +1,0 @@
-/home/sandile/instaFind/platforms/android/app/src/main/assets/app/bundle.js
-/home/sandile/instaFind/platforms/android/app/src/main/assets/app/vendor.js
-/home/sandile/instaFind/platforms/android/app/src/main/assets/app/runtime.js
-/home/sandile/instaFind/platforms/android/app/src/main/assets/app/tns-java-classes.js

@@ -1,8 +1,0 @@
-{
-	"tns-core-modules-widgets": {
-		"/home/sandile/instaFind/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "0ff68ea2dea492d8ca6c2803f5700f1872126431"
-	},
-	"nativescript-camera": {
-		"/home/sandile/instaFind/node_modules/nativescript-camera/platforms/android/nativescript_camera.aar": "076643dd1be5b20235184a9c65703fa02a930b9b"
-	}
-}
