@@ -5,7 +5,6 @@ tags
 dist
 **/*.js.map
 **/*.metadata.json
-App_Resources
 
 /nativescript-angular/**/*.d.ts
 /nativescript-angular/**/*.js
